@@ -1,0 +1,15 @@
+<div class="shopping-list">
+  <div class="row">
+    <div class="col-xs-10">
+      <rb-shopping-list-add [item]="selectedItem" (cleared)="onCleared()"></rb-shopping-list-add>
+      <hr>
+      <ul class="list-group">
+        <a class="list-group-item" 
+            *ngFor="let item of items; let i = index" 
+            (click)="onSelectItem(item,i)"
+            [class.active]="sIndex === i">
+            {{item.name}} ({{item.amount}})</a>
+      </ul>
+    </div>
+  </div>
+</div>
