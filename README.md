@@ -2,8 +2,8 @@
 # designcourse-angular2-recipebook-src
 source code of recipebook of angular2 tutorial by designcourse
 
-**View the demo here: https://doppelgunner.github.io/recipebook**
-**beware of some uncensored recipes!!! I warned you.**
+* **View the demo here: https://doppelgunner.github.io/recipebook**
+* **beware of some uncensored recipes!!! I warned you.**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
 
