@@ -1,6 +1,5 @@
 # RecipeBook
-# designcourse-angular2-recipebook-src
-source code of recipebook of angular2 tutorial by designcourse
+source code of recipebook of angular2 tutorial by Maximilian Schwarzmüller
 
 * **View the demo here: https://doppelgunner.github.io/recipebook**
 * **beware of some uncensored recipes!!! I warned you.**
